@@ -6,3 +6,5 @@ I am a cybersecurity professional with over a decade of experience in various te
 When I’m not busy behind the keyboard, you’ll find me riding bikes, skiing, traveling, and spending time with family and friends.
 
 Contact or follow me on <a rel="nofollow me" href="https://infosec.exchange/@infosecb">Mastodon</a>
+
+<!--  <a rel="nofollow me" href="https://infosec.exchange/@infosecb">Mastodon</a> -->
