@@ -7,4 +7,4 @@ When I’m not busy behind the keyboard, you’ll find me riding bikes, skiing, 
 
 Contact or follow me on <a rel="nofollow me" href="https://infosec.exchange/@infosecb">Mastodon</a>
 
-<!--  <a rel="nofollow me" href="https://infosec.exchange/@infosecb">Mastodon</a> -->
+<p rel="me" href="https://infosec.exchange/@infosecb"></p>
